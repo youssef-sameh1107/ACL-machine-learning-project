@@ -9,7 +9,7 @@ This repository contains the completed Jupyter notebook and the matching analyti
 
 | File | Purpose |
 | --- | --- |
-| [`67-acl-67.ipynb`](67-acl-67.ipynb) | Main executable notebook, including code, charts, and saved results. |
+| [`acl-project-milestone-1.ipynb`](67-acl-67.ipynb) | Main executable notebook, including code, charts, and saved results. |
 | [`ACL_Milestone1_F1_Analytical_Report.pdf`](ACL_Milestone1_F1_Analytical_Report.pdf) | Accompanying 19-page report with methods, figures, answers to all three data-engineering questions, and limitations. |
 | [`requirements.txt`](requirements.txt) | Python packages needed to run the notebook. |
 | `README.md` | Project overview, data instructions, execution steps, and result summary. |
