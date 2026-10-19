@@ -45,7 +45,7 @@ The source files are loaded into a `raw` dictionary; cleaning occurs on copies. 
 
 ### Google Colab
 
-1. Open https://colab.research.google.com/ and import `67-acl-67.ipynb`.
+1. Open https://colab.research.google.com/ and import `acl-project-milestone-1.ipynb`.
 2. Upload the original `archive.zip` into Colab's `/content/` directory using the Files sidebar. The loader searches the notebook's current working directory recursively (normally `/content/`). Alternatively, extract the 14 CSV files together into a single folder under `/content/`.
 3. If the ZIP contains extra nested folders instead of the CSV files at the archive root, **extract the ZIP into a folder**: the loader recognizes a directory containing all 14 CSV files.
 4. Run all cells in order. Colab runtimes are temporary, so download the final outputs before disconnecting.
