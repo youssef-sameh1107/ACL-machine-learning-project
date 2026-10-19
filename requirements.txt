@@ -1,0 +1,15 @@
+# Formula 1 Podium Prediction — ACL Milestone 1
+# Direct Python dependencies used in 67-acl-67.ipynb.
+# Versions are deliberately unpinned because the supplied notebook was executed
+# in a hosted notebook environment. For exact reproduction, lock versions
+# after confirming a successful run on the target Python/runtime version.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+shap
+lime
+adjustText
+ipython
